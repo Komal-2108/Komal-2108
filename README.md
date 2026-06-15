@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="./banner.png" alt="Komal Kumari's GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="Komal Kumari's Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Komal Kumari 👋</h1>
 <p align="center">
-  <strong>Backend & Android Developer | JavaScript | Python | Kotlin | MERN</strong>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Komal+Kumari+👋;Backend+Developer;Android+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <strong>Passionate Software Developer building modern mobile applications and scalable backend systems.</strong>
 </p>
 
 <p align="center">
@@ -16,74 +19,67 @@
 
 ### 💫 About Me
 
-I am a passionate software developer who loves turning ideas into real-world applications. My work spans backend services, mobile app development, and full-stack web architectures. I enjoy designing clean, scalable codebases and learning new technologies to build efficient solutions.
+- 🔭 I’m currently focused on advanced mobile engineering with **Kotlin** and **Jetpack Compose**.
+- 🚀 I love architecting robust backend APIs and designing seamless developer utility tools.
+- 💬 Ask me about **JavaScript, Python, Android Architecture Components, and RESTful API Integration**.
+- 🌱 Always exploring new paradigms, writing clean code, and optimizing performance.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Tech Stack & Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Frameworks</h4>
-      <ul>
-        <li><strong>Languages:</strong> Kotlin, JavaScript (ES6+), Python, HTML5, CSS3</li>
-        <li><strong>Frontend & Mobile:</strong> Jetpack Compose, React.js, Next.js</li>
-        <li><strong>Backend & API:</strong> Node.js, Express.js, RESTful APIs, GraphQL</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & Platforms</h4>
-      <ul>
-        <li><strong>VCS & Devops:</strong> Git, GitHub, Git Actions</li>
-        <li><strong>IDEs & Editors:</strong> Android Studio, VS Code, IntelliJ IDEA</li>
-        <li><strong>API Testing:</strong> Postman</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Section | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| **Backend Frameworks** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" /> |
+| **Tools & VCS** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
+
+</div>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Highlighted Project
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>📱 <a href="https://github.com/Komal-2108/MyPlans">MyPlans</a></h3>
-      <p>A premium developer-centric productivity and tracking Android application built using Kotlin and Jetpack Compose. Designed to manage daily plans, log DSA solutions, and track weekly goals.</p>
+      <p>A developer-focused productivity dashboard and logging tool. Manage routines, track solved coding problems, and sync developer metrics seamlessly.</p>
       <ul>
-        <li>📅 <strong>Today Planner:</strong> Log routines and target tasks.</li>
-        <li>💻 <strong>DSA Log:</strong> Progress tracker for coding problems.</li>
-        <li>📊 <strong>Stats Sync:</strong> Integrations with GitHub, LeetCode, and GFG.</li>
+        <li>📅 <strong>Daily routine & Planner</strong>.</li>
+        <li>💻 <strong>DSA practice logs</strong>.</li>
+        <li>📊 <strong>Stats integration</strong> for GitHub, LeetCode, and GeeksforGeeks.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Retrofit-34A853?style=flat-square&logo=android&logoColor=white" />
       </p>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Komal-2108&repo=MyPlans&theme=radical&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Komal-2108&repo=MyPlans&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📊 GitHub Dashboard & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal-2108&show_icons=true&theme=radical&hide_border=true" alt="Komal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-2108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Komal-2108&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Komal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-2108&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com?user=Komal-2108&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-2108&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Keep coding, keep building, keep learning! 🚀</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
